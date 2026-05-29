@@ -1,3 +1,3 @@
 fn main() {
-    println!("Dataset Generator");
+    println!("Web Benchmark Orchestrator");
 }

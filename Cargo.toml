@@ -1,5 +1,5 @@
 [package]
-name = "dataset_generator"
+name = "web_benchmark"
 version = "0.1.0"
 edition = "2021"
 
